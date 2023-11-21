@@ -8,10 +8,6 @@ DocShield is a Python tool that automatically removes personal information from 
    ```
    git clone https://github.com/daishir0/DocShield
    ```
-2. Set your OpenAI API key as an environment variable:
-   ```
-   export OPENAI_API_KEY='YOUR-OPENAI-API-KEY'
-   ```
 
 ## Usage
 Run the script in a directory containing Word, Excel, and PowerPoint files. It will create backups and then process each file to remove personal information.
@@ -34,10 +30,6 @@ DocShieldは、Word、Excel、PowerPointファイルから個人情報を自動�
 1. レポジトリをクローンします：
    ```
    git clone https://github.com/daishir0/DocShield
-   ```
-2. OpenAIのAPIキーを環境変数として設定します：
-   ```
-   export OPENAI_API_KEY='あなたのOPENAI-API-KEY'
    ```
 
 ## 使い方
