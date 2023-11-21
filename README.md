@@ -17,10 +17,8 @@ Ensure that you have the necessary permissions to modify the documents.
 
 ## License
 This project is licensed under the MIT License.
-```
 
-### README.md (日本語)
-```
+
 # DocShield
 
 ## 概要
